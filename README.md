@@ -32,3 +32,8 @@ Future Work:
 
 Screenshots and Results:
 <img width="890" alt="Screenshot 2024-11-15 at 5 24 59 PM" src="https://github.com/user-attachments/assets/9a3fe891-0772-4636-8598-f7df1e4912b3">
+
+
+Fish Dataset: https://universe.roboflow.com/fish-vdphw/fish_detection-z6be1
+
+Trash Dataset: https://universe.roboflow.com/object-detect-dmjpt/ocean_waste
